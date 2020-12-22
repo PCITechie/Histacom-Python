@@ -27,4 +27,4 @@ Upstream (Histacom): https://github.com/TheRandomMelon/Histacom/
 Histacom-Pythons's documentation can be found on the Histacom-Python Wiki (TODO): https://github.com/PCITechie/Histacom-Python/wiki/
 
 ## License
-Histacom-Python is licensed under the [MIT license](https://github.com/PCITechie/Histacom-Python/blob/master/LICENSE). All code committed to the Histacom-Python repository becomes the property of PCITechie (or Michael Webb upstream), and cannot be removed under request. Please consider this before contributing.
+Histacom-Python is licensed under the [GPL license](https://github.com/PCITechie/Histacom-Python/blob/master/LICENSE). Certain assets may be property of Michael Webb or others.
