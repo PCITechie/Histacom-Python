@@ -4,6 +4,7 @@
   </p>
   <p>
     <a href="https://github.com/PCITechie/Histacom-Python/issues"><img src="https://img.shields.io/github/issues/TheRandomMelon/Histacom.svg" style="border: 0;"></a>
+    <img src="https://img.shields.io/github/repo-size/PCITechie/Histacom-Python.svg" style="border: 0;">
   </p>
 </div>
 
