@@ -7,7 +7,7 @@
   </p>
 </div>
 
-#I AM NOT THE ORIGINAL AUTHOR OF HISTACOM, I ONLY MAINTAIN THIS FORK FOR PYTHON, I DO NOT CLAIM THIS AS MY ORIGINAL CONTENT
+## I AM NOT THE ORIGINAL AUTHOR OF HISTACOM, I ONLY MAINTAIN THIS FORK FOR PYTHON, I DO NOT CLAIM THIS AS MY ORIGINAL CONTENT
 
 (Note: Readme is a WIP.)
 Histacom-Python is a Python (PyGlet) version of the PC game Histacom, released by 12padams in 2010, and a fork of the new Histacom SDL2 C# rewrite. Here are some of our goals:
