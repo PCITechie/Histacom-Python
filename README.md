@@ -8,7 +8,7 @@
   </p>
 </div>
 
-## I AM NOT THE ORIGINAL AUTHOR OF HISTACOM, I ONLY MAINTAIN THIS IMPLEMENTATION FOR PYTHON, I DO NOT CLAIM THE ASSETS/STORY AS MY ORIGINAL CONTENT
+## I AM NOT THE ORIGINAL AUTHOR OF HISTACOM, I ONLY MAINTAIN AND UPDATE THIS IMPLEMENTATION FOR PYTHON, I DO NOT CLAIM THE ASSETS/STORY AS MY ORIGINAL CONTENT
 
 (Note: Readme is a WIP.)
 Histacom-Python is a Python (PyGlet) version of the PC game Histacom, released by 12padams in 2010, and a different implementation of the new Histacom SDL2 C# rewrite. Here are some of our goals:
@@ -22,7 +22,7 @@ TODO
 
 ## Links
 
-Upstream (Histacom): https://github.com/TheRandomMelon/Histacom/
+Main Implementation (Histacom): https://github.com/TheRandomMelon/Histacom/
  
 ## Documentation
 Histacom-Pythons's documentation can be found on the Histacom-Python Wiki (TODO): https://github.com/PCITechie/Histacom-Python/wiki/
