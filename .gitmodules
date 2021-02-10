@@ -1,6 +1,0 @@
-[submodule "MediaLib"]
-	path = MediaLib
-	url = https://github.com/AdrUlb/MediaLib
-[submodule "src/MediaLib"]
-	path = src/MediaLib
-	url = https://github.com/AdrUlb/MediaLib
