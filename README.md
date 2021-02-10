@@ -28,4 +28,4 @@ Main Implementation (Histacom): https://github.com/TheRandomMelon/Histacom/
 Histacom-Pythons's documentation can be found on the Histacom-Python Wiki (TODO): https://github.com/PCITechie/Histacom-Python/wiki/
 
 ## License
-Histacom-Python is licensed under the [GPL license](https://github.com/PCITechie/Histacom-Python/blob/master/LICENSE). Certain assets may be property of Michael Webb or others.
+Histacom-Python is licensed under the [GPLv3 license](https://github.com/PCITechie/Histacom-Python/blob/master/LICENSE). Certain assets may be property of Michael Webb or others.
